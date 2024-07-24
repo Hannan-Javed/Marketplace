@@ -31,7 +31,7 @@ To run the Farmio HK Limited Marketplace locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/Hannan-Javed/Marketplace`
 2. Install the required dependencies: `npm install`
-4. Start the development server: `npm start`
+4. Start the development server: `npm run dev`
 
 ## Usage
 Once the development server is running, you can use postman to post as a buyer, seller, products, or prices. You can also get a record of these using the get method.
